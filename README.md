@@ -1,9 +1,14 @@
 # Raspberry NTP Server Atomic Clock
 NTP Server for Raspberry Pi and Waveshare e-paper e-ink display
 
-![display](docs/display.jpg)
+![time-zones](docs/time-zones.jpg)
 
 ## Hardware
+1. Raspberry Pi (Needs the 40 Pin headers)
+2. Waveshare screen
+3. 16 GB MicroSD card
+4. PSU
+5. An internet connection
 
 ### Platform
 
